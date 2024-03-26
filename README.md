@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, I'm Eric Mitchell.
+
+**- Working with React and Python**
+
+**- Learning Typescript and Node.js**
+
+**- Check out my [website](https://ericmitchell.io)**
 
 <!--
 **mitch1625/mitch1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
