@@ -1,5 +1,7 @@
 # Hello, I'm Eric Mitchell.
 
+**- I like JavaScript**
+
 **- Working with React and Python**
 
 **- Learning Typescript and Node.js**
