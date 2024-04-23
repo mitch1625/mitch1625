@@ -1,12 +1,8 @@
 # Hello, I'm Eric Mitchell.
 
-**- I like JavaScript**
+** Looking for new opportunities. Feel free to connect with me **
 
-**- Working with React and Python**
-
-**- Learning Typescript and Node.js**
-
-**- Check out my [website](https://ericmitchell.io)**
+**Check out my [website](https://ericmitchell.io)**
 
 <!--
 **mitch1625/mitch1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
