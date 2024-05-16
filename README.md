@@ -1,6 +1,6 @@
 # Hello, I'm Eric Mitchell.
 
-** Currently learning Typescript**
+**Currently learning Typescript**
 **Looking for new opportunities. Feel free to connect with me**
 
 **Check out my [website](https://ericmitchell.io)**
